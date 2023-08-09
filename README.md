@@ -1,2 +1,2 @@
-Portfolio Repository
-https:/deveshkpandey.github.io
+Portfolio Repository                              
+Link:   https://deveshkpandey.github.io
